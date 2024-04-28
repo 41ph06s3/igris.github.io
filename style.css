@@ -5,7 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-header {
+header { 
     position: fixed;
     top: 0;
     left: 0;
